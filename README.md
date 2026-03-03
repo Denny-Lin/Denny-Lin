@@ -1,5 +1,3 @@
-# Hung-Yu Lin
-
 ![Profile views](https://komarev.com/ghpvc/?username=Denny-Lin&color=lightgrey)
 
 Embedded Systems Engineer  
