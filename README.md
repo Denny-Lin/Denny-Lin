@@ -1,30 +1,19 @@
 # Hung-Yu Lin
 
-![Profile views](https://komarev.com/ghpvc/?username=Denny-Lin&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Denny-Lin&color=lightgrey)
 
----
-
-Embedded & Systems Software Engineer.
-
-Experience in Linux/Android platforms, system integration, and real-time systems.
-
----
+Embedded Systems Engineer  
+Linux · Real-time Systems
 
 ## Selected Work
 
-- Real-time scheduling research  
-- Embedded platform bring-up & debugging  
-- System-level integration across SoCs  
-
----
+- Real-time scheduling research
+- Embedded platform bring-up & debugging
+- SoC system-level integration
 
 ## Tech
 
-C / C++  
-Linux  
-Embedded Systems  
+C/C++ · Linux · Python
 
----
-
-📫 dennylin0707@gmail.com  
-🔗 https://linkedin.com/in/hungyu-lin
+Contact: dennylin0707@gmail.com  
+LinkedIn: [linkedin.com/in/hungyu-lin](https://linkedin.com/in/hungyu-lin)
