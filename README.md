@@ -8,6 +8,3 @@
 ## Tech
 
 C/C++ · Linux · Python
-
-Contact: dennylin0707@gmail.com  
-LinkedIn: [linkedin.com/in/hungyu-lin](https://linkedin.com/in/hungyu-lin)  
