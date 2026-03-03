@@ -1,9 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Denny-Lin&color=lightgrey)
-
-Embedded Systems Engineer  
-Linux · Real-time Systems
-
-## Selected Work
+## Selected Work 
 
 - Real-time scheduling research
 - Embedded platform bring-up & debugging
@@ -14,4 +10,4 @@ Linux · Real-time Systems
 C/C++ · Linux · Python
 
 Contact: dennylin0707@gmail.com  
-LinkedIn: [linkedin.com/in/hungyu-lin](https://linkedin.com/in/hungyu-lin)
+LinkedIn: [linkedin.com/in/hungyu-lin](https://linkedin.com/in/hungyu-lin)  
