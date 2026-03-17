@@ -1,2 +1,1 @@
-## Focus <img src="https://komarev.com/ghpvc/?username=Denny-Lin&color=lightgrey" align="right" />
-RTOS · Embedded Systems · Scheduling · AI Systems
+**Focus:** RTOS · Embedded Systems · Real-Time Scheduling · AI Systems <img src="https://komarev.com/ghpvc/?username=Denny-Lin&color=lightgrey" align="right" />
