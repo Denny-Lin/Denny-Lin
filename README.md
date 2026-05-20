@@ -1,1 +1,1 @@
-**Focus:** System Design · Embedded Systems · RTOS · AI Systems · Linux Kernel [(Upstream Contributions)](https://lore.kernel.org/all/?q=dennylin0707%40gmail.com) <img src="https://komarev.com/ghpvc/?username=Denny-Lin&color=lightgrey" align="right" />
+**Focus:** System Design · Embedded Systems · RTOS · AI Systems · [Linux Kernel Contributor](https://lore.kernel.org/all/?q=dennylin0707%40gmail.com) <img src="https://komarev.com/ghpvc/?username=Denny-Lin&color=lightgrey" align="right" />
