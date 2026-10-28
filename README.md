@@ -1,1 +1,1 @@
-**Focus:** System Design · Embedded Systems · AI Systems · [Linux Kernel Contributor](https://lore.kernel.org/all/?q=dennylin0707%40gmail.com) · RTOS <img src="https://komarev.com/ghpvc/?username=Denny-Lin&color=lightgrey" align="right" />
+**Focus:** System Design · Embedded Systems · AI Systems · [Linux Kernel Contributor](https://lore.kernel.org/all/?q=dennylin0707%40gmail.com) · [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+is%3Amerged+author%3ADenny-Lin) <img src="https://komarev.com/ghpvc/?username=Denny-Lin&color=lightgrey" align="right" />
